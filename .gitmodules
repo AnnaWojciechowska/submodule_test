@@ -1,0 +1,3 @@
+[submodule "inner_module"]
+	path = inner_module
+	url = git@github.com:AnnaWojciechowska/inner_module.git
